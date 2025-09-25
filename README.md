@@ -3,6 +3,7 @@
 **Computer Science Student** at **Northeastern University, Khoury College of Computer Sciences** Class of 2028
 
 Passionate about database design, databases (MYSQL/SQLite), Software Engineering, and Multithreaded Programming
+
 Based in Boston, MA
 
 ## Skills & Tools
