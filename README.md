@@ -28,7 +28,7 @@ Based in Boston, MA
   Implemented an object-oriented simulation with ants and doodlebugs on a 2D grid.  
   Applied inheritance, polymorphism, and operator overloading
 
-  - **LightEmAllUp** *(Java)*  
+- **LightEmAllUp** *(Java)*  
  Interactive puzzle game based on graph theory where players connect a randomized network of wires to power up all light bulbs.  
   Focused on **graph traversal algorithms, UI interaction, and puzzle-solving mechanics
 
