@@ -29,6 +29,9 @@ Based in Boston, MA
   Implemented an object-oriented simulation with ants and doodlebugs on a 2D grid.  
   Applied inheritance, polymorphism, and operator overloading
 
+-**Klondike Solitaire** *(Java, MVC Architecture)*
+Developed a complete Klondike Solitaire game using Model-View-Controller architecture with support for multiple game variants (Basic and Whitehead). Implemented factory pattern for dynamic game creation, textual controller with comprehensive input validation, and extensible card system supporting customizable deck configurations and variable board sizes.
+
 - **LightEmAllUp** *(Java)*  
  Interactive puzzle game based on graph theory where players connect a randomized network of wires to power up all light bulbs.  
   Focused on **graph traversal algorithms, UI interaction, and puzzle-solving mechanics
